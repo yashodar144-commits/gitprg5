@@ -2,4 +2,4 @@ Hello Everyone
 welcome to git world
 
 This is my 5th program
-Collaboration and remote repository
+Collaboration and remote repositary
